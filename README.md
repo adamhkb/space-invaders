@@ -2,10 +2,10 @@
 
 Developed a Space Invader clone, where the aim of the game is to defeat wave after wave of descending aliens with a horizontally moving laser.
 
-<img src="/src/Screenshot%202022-03-18%20at%2014.40.18.png" width="1000" height="600">
+<img src="/src/Screenshot%202022-03-18%20at%2014.40.18.png" width="600" height="600">
 
 
-## Python Paackages 🐍📦
+## Python Packages 🐍📦
 
 - Python = A high-level, general-purpose programming language.
 - Pygame = A cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries.
