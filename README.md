@@ -2,6 +2,10 @@
 
 Developed a Space Invader clone, where the aim of the game is to defeat wave after wave of descending aliens with a horizontally moving laser.
 
+![Test Image 1](src/Screenshot 2022-03-18 at 14.40.18.png)
+
+
+
 ## Python Paackages 🐍📦
 
 - Python = A high-level, general-purpose programming language.
